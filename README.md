@@ -45,10 +45,10 @@ streamlit run app.py
 ## 🗂️ Project Structure
 
 
-## project_pdf_text_summarizer/
-##### ├── app.py               # Main Streamlit app
-##### ├── summarizer.py        # Contains logic for summarizing and keyword extraction
-##### ├── requirements.txt     # Python dependencies
+### project_pdf_text_summarizer/
+##### ├── app.py                (Main Streamlit app)
+##### ├── summarizer.py         (Contains logic for summarizing and keyword extraction)
+##### ├── requirements.txt      (Python dependencies)
 ##### ├── .gitignore
 ##### └── README.md
 
@@ -65,7 +65,7 @@ This started as a small side project but became something I now use regularly. H
 ## 🙋‍♀️ Author
 
 **Purva Parmar**  
-Student | Developer | AI Enthusiast_  
+Student | Developer | AI Enthusiast
 GitHub: [purvaparmar](https://github.com/purvaparmar)
 
 
