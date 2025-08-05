@@ -25,16 +25,16 @@ It’s fast, easy, and works efficiently.
 ## 🚀 How to Run It
 
 
-## 1. Clone this repo
+###### 1. Clone this repo
 git clone https://github.com/purvaparmar/project_pdf_text_summarizer.git
 
-## 2. Go to the project folder
+###### 2. Go to the project folder
 cd project_pdf_text_summarizer
 
-## 3. Install dependencies
+###### 3. Install dependencies
 pip install -r requirements.txt
 
-## 4. Launch the app
+###### 4. Launch the app
 streamlit run app.py
 
 
