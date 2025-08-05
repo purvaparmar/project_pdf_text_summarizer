@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment folders
+.env/
+venv/
+env/
+
+# Streamlit files
+.streamlit/
+
+# PDF uploads
+*.pdf
+uploads/
